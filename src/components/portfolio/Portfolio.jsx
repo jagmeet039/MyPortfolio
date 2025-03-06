@@ -7,14 +7,14 @@ const items = [
     id: 1,
     img: "/p1.jpg",
     title: "XChangeMarket Application",
-    desc: "This is a eCommerce website showcase a appealing and user-friendly interface, designed for seamless navigation across devices. Offering a smooth and intuitive shopping experience, making it easy to browse, select, and manage their purchases.",
+    desc: "This is an eCommerce website showcase a appealing and user-friendly interface, designed for seamless navigation across devices. Offering a smooth and intuitive shopping experience, making it easy to browse, select, and manage their purchases.",
     link: "https://xchangemarket.netlify.app/",
   },
   {
     id: 2,
     img: "/p2.jpg",
     title: "Hacker New Clone Application",
-    desc: "This is a news clone site which presents the lastest news along with time of upload, used React and fetching news api to get relevant data.",
+    desc: "This is a news clone site which presents the latest news along with time of upload, used React and fetching news api to get relevant data.",
     link: "https://hacker-news-clone-project.netlify.app/",
   }
 ];
